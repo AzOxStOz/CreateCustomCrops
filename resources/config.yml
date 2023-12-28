@@ -1,0 +1,20 @@
+##   ____    ____    ____
+## / ___|  / ___|  / ___|
+## | |     | |     | |
+## | |___  | |___  | |___
+## \____|  \____|  \____|
+##
+## This plugin, created by AzOxStOz,
+## is freely available for redistribution and use.
+## You are welcome to incorporate it into your projects,
+## provided proper credit is given.
+
+crops: "minecraft:wheat" ##SUPPORTED: minecraft:wheat, minecraft:beetroots, minecraft:potato, minecraft:carrot
+rand.min: 1
+rand.max: 100
+rand.separate: 99
+rand.lootmin: 1
+rand.lootmax: 3
+loot.good: "minecraft:diamond" ##SUPPORTED: SEE STRINGTOITEMPARSER, BLOCKS AREN'T SUPPORTED NOW SORRY
+loot.bad: "minecraft:air"
+loot.seed: "minecraft:seeds"

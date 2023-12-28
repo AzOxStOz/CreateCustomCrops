@@ -1,0 +1,17 @@
+##   ____    ____    ____
+## / ___|  / ___|  / ___|
+## | |     | |     | |
+## | |___  | |___  | |___
+## \____|  \____|  \____|
+##
+## This plugin, created by AzOxStOz,
+## is freely available for redistribution and use.
+## You are welcome to incorporate it into your projects,
+## provided proper credit is given.
+
+name: CreateCustomCrops
+description: "Implements modified vanilla crops to your Pocketmine server !"
+author: AzOxStOz
+api: [5.0.0, 6.0.0]
+main: azoxstoz\createcustomcrops\Main
+version: 1.0.0-VAZO
